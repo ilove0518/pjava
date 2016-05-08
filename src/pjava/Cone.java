@@ -5,7 +5,7 @@ public class Cone {
 		/**/
 		/**/
 		
-		//TODO  this is from eclipse 
+		//TODO  thiis is from eclipse 
 
 	}
 }
